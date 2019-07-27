@@ -1,5 +1,3 @@
-<center><h1>Curriculum Vitae</h1></center>
-
 <p style="text-align: center;">
 Yu-Zhen Tu<br><br>
 Health2Sync<br>
@@ -10,7 +8,7 @@ Email: <a href="mailto:ytu@health2sync.com">ytu@health2sync.com</a><br>
 LinkedIn: <a href="https://www.linkedin.com/in/yu-zhen-tu-251805135/">Yu-Zhen Tu</a><br>
 </p>
 
-## Employment
+# Employment
 
 1. Data Engineer at Health2Sync (Jan 2018 - present).
 	* Implementing OCR techniques from Google Cloud Vision into HealthPass (健康護照) product for recognizing photos of physical exam reports and extracting the data on them ([替個人健檢報告加值，這家新創用區塊鏈從健康數據淘金｜數位時代](https://www.bnext.com.tw/article/52543/health2sync-ctbc-bank-and-bitmark-launch-world-frst-diabetes-data-trust))
@@ -32,14 +30,14 @@ LinkedIn: <a href="https://www.linkedin.com/in/yu-zhen-tu-251805135/">Yu-Zhen Tu
 	* EKG (Electrocardiogram) test
 	* ESR (Erythrocyte sedimentation rate) test
 
-## Education
+# Education
 
 1. National Taiwan University, Graduate Institute of Brain and Mind Sciences, Master of Science (Sep 2013 - Jun 2015).
 2. National Taiwan University, Department of Clinical Laboratory Sciences and Medical Biotechnology, Bachelor of Science (Sep 2008 - Jan 2013).
 
-## Publications
+# Publications
 
-### Journal Papers, Book Chapter, and Thesis
+## Journal Papers, Book Chapter, and Thesis
 
 1. Chen, C.-C., Su, Y.-S., **Tu, Y.-Z.**, Goh, J. O. S. (in press). Default-mode network activation underlies accurate contextual processing of exclusive disjunctions in older but not younger adults. *NeuroImage*. doi: [10.1016/j.neuroimage.2019.116012](https://doi.org/10.1016/j.neuroimage.2019.116012)
 2. **Tu, Y.-Z.**, Lin, D.-W., Suzuki, A., & Goh, J. O. S. (2018). East Asian young and older adult perceptions of emotional faces from an age- and sex-fair East Asian facial expression database. *Frontiers in Psychology*, 9, 2358. doi: [10.3389/fpsyg.2018.02358](https://doi.org/10.3389/fpsyg.2018.02358)
@@ -47,21 +45,21 @@ LinkedIn: <a href="https://www.linkedin.com/in/yu-zhen-tu-251805135/">Yu-Zhen Tu
 4. Goh, J. O. S., Li, C.-Y., **Tu, Y.-Z.**, & Dallaire-Théroux, C. (in press). *Visual cognition and culture. In O. Pedraza (Ed.), Clinical cultural neuroscience: Foundations and neuropsychological assessment*: Oxford University Press.
 5. **Tu, Y.-Z.** (2015). *Age-related differences in dimensional processing of emotion stimuli: Picture scenes and facial expressions*. (Master thesis), National Taiwan University.
 
-### Conference Abstracts
+## Conference Abstracts
 
 1. Yuan, S.-Y., **Tu, Y.-Z.**, Wang, P.-Y., Goh, J. O. S. (2014). Dietary macronutrient composition is differentially associated with gray matter volume in young and older adults. Presented at the Society for Neuroscience Annual Meeting, Washington, DC, USA. [[pdf](https://drive.google.com/file/d/0BzjcVTDEKxiva0JXTDJlcEplU0U/view)][[Abstract](http://www.abstractsonline.com/Plan/ViewAbstract.aspx?sKey=ff62ca82-9063-4f1e-a580-31bf3688349a&cKey=f094b7b4-a3e8-4d0c-9505-192458dcace4&mKey=54c85d94-6d69-4b09-afaa-502c0e680ca7)]
 
-## Licenses and Certificates
+# Licenses and Certificates
 
-### Foreign Language Capability
+## Foreign Language Capability
 
 1. TOEIC score: 945 (Jul 2016)<br>Listening: 450<br>Reading: 495
 
-### Programming Ability
+## Programming Ability
 
 1.	"R Language Today" Certificate (Jun 2016)
 
-### Coursera Certificates
+## Coursera Certificates
 
 1. [Introduction to Data Science in Python](https://www.coursera.org/account/accomplishments/verify/TJ84YLNAJ79U) (Apr 2019)
 2. [Version Control with Git](https://www.coursera.org/account/accomplishments/verify/Y8UGNWPTBHJT) (Jun 2018)
@@ -83,15 +81,15 @@ LinkedIn: <a href="https://www.linkedin.com/in/yu-zhen-tu-251805135/">Yu-Zhen Tu
 18. [Regression Models](https://www.coursera.org/account/accomplishments/verify/R6ZBXXUX8M4T) (Jun 2016)
 19. [R Programming](https://www.coursera.org/account/accomplishments/verify/V6VFG4MCCT7Y) (May 2016)
 
-### Other Course Certificates
+## Other Course Certificates
 
 1. 2017 Summer Course on Modeling and Analysis of Infectious Diseases (Jul 2017)
 
-### Clinical Ability
+## Clinical Ability
 
 1. Medical Technologist License (Sep 2013)
 
-## R-related Side Projects
+# R-related Side Projects
 
 *	[Currency Dashboard](https://corytu.shinyapps.io/currency-dashboard/) (Jul 2017)
 	* Parse from [Bank of Taiwan](http://www.bot.com.tw/Pages/default.aspx) and present
@@ -109,13 +107,13 @@ LinkedIn: <a href="https://www.linkedin.com/in/yu-zhen-tu-251805135/">Yu-Zhen Tu
 	* Show all nine national parks in Taiwan
 	* The hyperlinks to each national park are provided once users click the markers
 
-## Voluntary Services
+# Voluntary Services
 
 1. Lecturer of [Taiwan R User Group / MLDM Monday Meetup](https://www.meetup.com/Taiwan-R/events/254369159/) (Oct 2018)
 2. Invited Coursera Beta Tester (Nov 2016 - present)
 3. Invited Coursera Community Mentor of “R Programming” (Jul 2016 - Sep 2018)
 
-## Other Links
+# Other Links
 
 * [Personal projects and oral tutorials in R](https://corytu.github.io/r-language-presentations/)
 * [Mentoring records and my helping articles on Coursera](https://corytu.github.io/coursera-r-mentoring/)
