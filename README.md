@@ -11,19 +11,19 @@ LinkedIn: <a href="https://www.linkedin.com/in/yu-zhen-tu-251805135/">Yu-Zhen Tu
 # Employment
 
 1. Data Engineer at Health2Sync (Jan 2018 - present).
-	* Implementing OCR techniques from Google Cloud Vision into HealthPass (健康護照) product for recognizing photos of physical exam reports and extracting the data on them ([替個人健檢報告加值，這家新創用區塊鏈從健康數據淘金｜數位時代](https://www.bnext.com.tw/article/52543/health2sync-ctbc-bank-and-bitmark-launch-world-frst-diabetes-data-trust))
-	* Involved in constructing the backend infrastructure with a Dockerized gRPC service for syncing data from clinical laboratories to clinics and app products
-	* Performing analyses and providing insights for product development and external stakeholders including (but not limited to) Johnson & Johnson, Sanofi Taiwan, and MSD Taiwan
+	* Implemented OCR techniques from Google Cloud Vision into HealthPass (健康護照) product to extract data on physical exam reports ([替個人健檢報告加值，這家新創用區塊鏈從健康數據淘金｜數位時代](https://www.bnext.com.tw/article/52543/health2sync-ctbc-bank-and-bitmark-launch-world-frst-diabetes-data-trust))
+	* Involved in constructing the backend infrastructure with a Dockerized gRPC service to sync data from clinical laboratories to clinics and app products
+	* Performed analyses and provided insights for product development and external stakeholders including (but not limited to) Johnson & Johnson, Sanofi Taiwan, and MSD Taiwan
 2. Research Assistant at National Taiwan University, Graduate Institute of Brain and Mind Sciences (Oct 2015 - Dec 2017).
-	* Building and validating an age- and sex-fair Taiwanese facial expression stimuli database
-	* Reporting age- and sex-related behavioral differences on rating the facial expressions, and patterns of East Asians' face perception with the following analyses:
+	* Built and validated an age- and sex-fair Taiwanese facial expression stimuli database
+	* Reported age- and sex-related behavioral differences on patterns of East Asians' face perception with the following analyses:
 		* Multidimensional scaling
 		* Hierarchical clustering
 		* MCMC (Markov chain Monte Carlo) mixed models
-	* Linux (CentOS) server maintenance
-	* Providing assistance including R tutorial and academic advices for junior students
-	* Establishment of experiment space and SOP for venipuncture and human DNA extraction
-	* Allocation of grant budgets and Research Ethics Committee paper works
+	* Maintained Linux (CentOS) server
+	* Provided assistance including R tutorial and academic advices for junior students
+	* Established experiment space and SOP for venipuncture and human DNA extraction
+	* Allocated grant budgets and Research Ethics Committee paper works
 3. Part-time Medical Technologist at National Taiwan University Hospital, Bei-Hu Branch (Jun 2014 - Aug 2014).
 	* Venipuncture
 	* Routine urine tests
@@ -89,23 +89,23 @@ LinkedIn: <a href="https://www.linkedin.com/in/yu-zhen-tu-251805135/">Yu-Zhen Tu
 
 1. Medical Technologist License (Sep 2013)
 
-# R-related Side Projects
+# Side Projects
 
 *	[Currency Dashboard](https://corytu.shinyapps.io/currency-dashboard/) (Jul 2017)
-	* Parse from [Bank of Taiwan](http://www.bot.com.tw/Pages/default.aspx) and present
+	* Parsed from [Bank of Taiwan](http://www.bot.com.tw/Pages/default.aspx) and presented
 		1. the latest currency information, and
 		2. the latest interest information with interactive plots and tables
-	* Compare the exchanges prices between that of today and that of last week
-	* Calculate the return of investment if additional information provided
+	* Compared the exchanges prices between that of today and that of last week
+	* Calculated the return of investment if additional information provided
 *	[Old Population Proportions in Districts in Taiwan](https://corytu.shinyapps.io/old-population-proportions/) (Mar 2017)
-	* Illustrate the percentages of old population in every district in Taiwan
-	* Widely referred in local health authorities, helping the promotion of primary health and creating an elder-friendly society.
-	* Last updated in February, 2018.
+	* Illustrated the percentages of old population in every district in Taiwan
+	* Widely referred in local health authorities, helping the promotion of primary health and creating an elder-friendly society
+	* Last updated in February, 2018
 *	[Relationships between Visitor Numbers and Taiwan Economics](https://corytu.github.io/r-language-presentations/docs/Relationships_between_Visitor_Numbers_and_Taiwan_Economics.html) (Mar 2017)
-	* Demonstrate the animated relationships between visitor numbers and multiple Taiwan economics indexes including visitor expenditure and GDP from 2001 to 2016. (Flash Player required)
+	* Demonstrated the animated relationships between visitor numbers and multiple Taiwan economics indexes including visitor expenditure and GDP from 2001 to 2016. (Flash Player required)
 *	[Taiwan National Parks](https://corytu.github.io/r-language-presentations/docs/Taiwan_National_Parks.html) (Feb 2017)
-	* Show all nine national parks in Taiwan
-	* The hyperlinks to each national park are provided once users click the markers
+	* Showed all nine national parks in Taiwan
+	* Provided hyperlinks to each national park once users click the markers
 
 # Voluntary Services
 
