@@ -49,6 +49,30 @@ LinkedIn: <a href="https://www.linkedin.com/in/yu-zhen-tu-251805135/">Yu-Zhen Tu
 
 1. Yuan, S.-Y., **Tu, Y.-Z.**, Wang, P.-Y., Goh, J. O. S. (2014). Dietary macronutrient composition is differentially associated with gray matter volume in young and older adults. Presented at the Society for Neuroscience Annual Meeting, Washington, DC, USA. [[pdf](https://drive.google.com/file/d/0BzjcVTDEKxiva0JXTDJlcEplU0U/view)][[Abstract](http://www.abstractsonline.com/Plan/ViewAbstract.aspx?sKey=ff62ca82-9063-4f1e-a580-31bf3688349a&cKey=f094b7b4-a3e8-4d0c-9505-192458dcace4&mKey=54c85d94-6d69-4b09-afaa-502c0e680ca7)]
 
+# Side Projects
+
+*	[Currency Dashboard](https://corytu.shinyapps.io/currency-dashboard/) (Jul 2017)
+	* Parsed from [Bank of Taiwan](http://www.bot.com.tw/Pages/default.aspx) and presented
+		1. the latest currency information, and
+		2. the latest interest information with interactive plots and tables
+	* Compared the exchanges prices between that of today and that of last week
+	* Calculated the return of investment if additional information provided
+*	[Old Population Proportions in Districts in Taiwan](https://corytu.shinyapps.io/old-population-proportions/) (Mar 2017)
+	* Illustrated the percentages of old population in every district in Taiwan
+	* Widely referred in local health authorities, helping the promotion of primary health and creating an elder-friendly society
+	* Last updated in February, 2018
+*	[Relationships between Visitor Numbers and Taiwan Economics](https://corytu.github.io/r-language-presentations/docs/Relationships_between_Visitor_Numbers_and_Taiwan_Economics.html) (Mar 2017)
+	* Demonstrated the animated relationships between visitor numbers and multiple Taiwan economics indexes including visitor expenditure and GDP from 2001 to 2016. (Flash Player required)
+*	[Taiwan National Parks](https://corytu.github.io/r-language-presentations/docs/Taiwan_National_Parks.html) (Feb 2017)
+	* Showed all nine national parks in Taiwan
+	* Provided hyperlinks to each national park once users click the markers
+
+# Voluntary Services
+
+1. Lecturer of [Taiwan R User Group / MLDM Monday Meetup](https://www.meetup.com/Taiwan-R/events/254369159/) (Oct 2018)
+2. Invited Coursera Beta Tester (Nov 2016 - present)
+3. Invited Coursera Community Mentor of “R Programming” (Jul 2016 - Sep 2018)
+
 # Licenses and Certificates
 
 ## Foreign Language Capability
@@ -89,29 +113,10 @@ LinkedIn: <a href="https://www.linkedin.com/in/yu-zhen-tu-251805135/">Yu-Zhen Tu
 
 1. Medical Technologist License (Sep 2013)
 
-# Side Projects
+# Club Experiences
 
-*	[Currency Dashboard](https://corytu.shinyapps.io/currency-dashboard/) (Jul 2017)
-	* Parsed from [Bank of Taiwan](http://www.bot.com.tw/Pages/default.aspx) and presented
-		1. the latest currency information, and
-		2. the latest interest information with interactive plots and tables
-	* Compared the exchanges prices between that of today and that of last week
-	* Calculated the return of investment if additional information provided
-*	[Old Population Proportions in Districts in Taiwan](https://corytu.shinyapps.io/old-population-proportions/) (Mar 2017)
-	* Illustrated the percentages of old population in every district in Taiwan
-	* Widely referred in local health authorities, helping the promotion of primary health and creating an elder-friendly society
-	* Last updated in February, 2018
-*	[Relationships between Visitor Numbers and Taiwan Economics](https://corytu.github.io/r-language-presentations/docs/Relationships_between_Visitor_Numbers_and_Taiwan_Economics.html) (Mar 2017)
-	* Demonstrated the animated relationships between visitor numbers and multiple Taiwan economics indexes including visitor expenditure and GDP from 2001 to 2016. (Flash Player required)
-*	[Taiwan National Parks](https://corytu.github.io/r-language-presentations/docs/Taiwan_National_Parks.html) (Feb 2017)
-	* Showed all nine national parks in Taiwan
-	* Provided hyperlinks to each national park once users click the markers
-
-# Voluntary Services
-
-1. Lecturer of [Taiwan R User Group / MLDM Monday Meetup](https://www.meetup.com/Taiwan-R/events/254369159/) (Oct 2018)
-2. Invited Coursera Beta Tester (Nov 2016 - present)
-3. Invited Coursera Community Mentor of “R Programming” (Jul 2016 - Sep 2018)
+1. Public Relationship Specialist at National Taiwan University Sign Language Club (Jan 2010 - Jun 2010)
+2. President of National Taiwan University Sign Language Club (Jul 2009 - Jan 2010)
 
 # Other Links
 
