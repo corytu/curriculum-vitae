@@ -12,8 +12,9 @@ LinkedIn: <a href="https://www.linkedin.com/in/yu-zhen-tu-251805135/">Yu-Zhen Tu
 
 1. Data Engineer at Health2Sync (Jan 2018 - present).
 	* Implemented OCR techniques from Google Cloud Vision into HealthPass (健康護照) product to extract data on physical exam reports ([替個人健檢報告加值，這家新創用區塊鏈從健康數據淘金｜數位時代](https://www.bnext.com.tw/article/52543/health2sync-ctbc-bank-and-bitmark-launch-world-frst-diabetes-data-trust))
-	* Involved in constructing the backend infrastructure with a Dockerized gRPC service to sync data from clinical laboratories to clinics and app products
+	* Involved in constructing the ETL pipeline with a Dockerized gRPC service to sync data from clinical laboratories to clinics and app products
 	* Performed analyses and provided insights for product development and external stakeholders including (but not limited to) Johnson & Johnson, Sanofi Taiwan, and MSD Taiwan
+	* Introduced OKR system to the company
 2. Research Assistant at National Taiwan University, Graduate Institute of Brain and Mind Sciences (Oct 2015 - Dec 2017).
 	* Built and validated an age- and sex-fair Taiwanese facial expression stimuli database
 	* Reported age- and sex-related behavioral differences on patterns of East Asians' face perception with the following analyses:
