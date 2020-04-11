@@ -11,8 +11,10 @@ LinkedIn: <a href="https://www.linkedin.com/in/yu-zhen-tu-251805135/">Yu-Zhen Tu
 # Employment
 
 1. Data Engineer at Health2Sync (Jan 2018 - present).
-	* Implemented OCR techniques from Google Cloud Vision into HealthPass (健康護照) product to extract data on physical exam reports ([替個人健檢報告加值，這家新創用區塊鏈從健康數據淘金｜數位時代](https://www.bnext.com.tw/article/52543/health2sync-ctbc-bank-and-bitmark-launch-world-frst-diabetes-data-trust))
-	* Involved in constructing the ETL pipeline with a Dockerized gRPC service to sync data from clinical laboratories to clinics and app products
+	* Implemented OCR techniques from Google Cloud Vision into [HealthPass (健康護照)](https://www.healthpass.cc) product to extract data on physical exam reports ([替個人健檢報告加值，這家新創用區塊鏈從健康數據淘金｜數位時代](https://www.bnext.com.tw/article/52543/health2sync-ctbc-bank-and-bitmark-launch-world-frst-diabetes-data-trust))
+	* Proactively planned features on HealthPass, including Health Guide, to enable users to understand their health data
+	* Constructed ETL data pipeline to sync data from clinical laboratories to app products and analysis tools
+	* Deployed Dockerized Shiny server on AWS EC2 instance
 	* Performed analyses and provided insights for product development and external stakeholders including (but not limited to) Johnson & Johnson, Sanofi Taiwan, and MSD Taiwan
 	* Introduced OKR system to the company
 2. Research Assistant at National Taiwan University, Graduate Institute of Brain and Mind Sciences (Oct 2015 - Dec 2017).
@@ -52,19 +54,22 @@ LinkedIn: <a href="https://www.linkedin.com/in/yu-zhen-tu-251805135/">Yu-Zhen Tu
 
 # Side Projects
 
-*	[Currency Dashboard](https://corytu.shinyapps.io/currency-dashboard/) (Jul 2017)
+* [Recommend Itinerary](https://github.com/corytu/recommend-itinerary) (Sep 2019)
+	* Used Word2Vec, random forest, and XGBoost to classify articles into four categories
+	* Constructed the database with Google Cloud Firestore for app to get predicted results and desired articles
+* [Currency Dashboard](https://github.com/corytu/currency-dashboard) (Jul 2017)
 	* Parsed from [Bank of Taiwan](http://www.bot.com.tw/Pages/default.aspx) and presented
 		1. the latest currency information, and
 		2. the latest interest information with interactive plots and tables
 	* Compared the exchanges prices between that of today and that of last week
 	* Calculated the return of investment if additional information provided
-*	[Old Population Proportions in Districts in Taiwan](https://corytu.shinyapps.io/old-population-proportions/) (Mar 2017)
+* [Old Population Proportions in Districts in Taiwan](https://github.com/corytu/old-population-proportions) (Mar 2017)
 	* Illustrated the percentages of old population in every district in Taiwan
 	* Widely referred in local health authorities, helping the promotion of primary health and creating an elder-friendly society
 	* Last updated in February, 2018
-*	[Relationships between Visitor Numbers and Taiwan Economics](https://corytu.github.io/r-language-presentations/docs/Relationships_between_Visitor_Numbers_and_Taiwan_Economics.html) (Mar 2017)
+* [Relationships between Visitor Numbers and Taiwan Economics](https://corytu.github.io/r-language-presentations/docs/Relationships_between_Visitor_Numbers_and_Taiwan_Economics.html) (Mar 2017)
 	* Demonstrated the animated relationships between visitor numbers and multiple Taiwan economics indexes including visitor expenditure and GDP from 2001 to 2016. (Flash Player required)
-*	[Taiwan National Parks](https://corytu.github.io/r-language-presentations/docs/Taiwan_National_Parks.html) (Feb 2017)
+* [Taiwan National Parks](https://corytu.github.io/r-language-presentations/docs/Taiwan_National_Parks.html) (Feb 2017)
 	* Showed all nine national parks in Taiwan
 	* Provided hyperlinks to each national park once users click the markers
 
@@ -82,7 +87,7 @@ LinkedIn: <a href="https://www.linkedin.com/in/yu-zhen-tu-251805135/">Yu-Zhen Tu
 
 ## Programming Ability
 
-1.	"R Language Today" Certificate (Jun 2016)
+1. "R Language Today" Certificate (Jun 2016)
 
 ## Coursera Certificates
 
