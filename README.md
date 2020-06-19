@@ -11,12 +11,12 @@ LinkedIn: <a href="https://www.linkedin.com/in/yu-zhen-tu-251805135/">Yu-Zhen Tu
 # Employment
 
 1. Data Engineer at Health2Sync (Jan 2018 - present).
-	* Implemented OCR techniques from Google Cloud Vision into [HealthPass (健康護照)](https://www.healthpass.cc) product to extract data on physical exam reports ([替個人健檢報告加值，這家新創用區塊鏈從健康數據淘金｜數位時代](https://www.bnext.com.tw/article/52543/health2sync-ctbc-bank-and-bitmark-launch-world-frst-diabetes-data-trust))
-	* Proactively planned features on HealthPass, including Health Guide, to enable users to understand their health data
+	* Introduced OKR system to the company and helping to set and review objectives of data team
+	* Proactively planned features on [HealthPass (健康護照)](https://www.healthpass.cc), including Health Guide, to enable users to understand their health data
 	* Constructed ETL data pipeline to sync data from clinical laboratories to app products and analysis tools
-	* Deployed Dockerized Shiny server on AWS EC2 instance
+	* Implemented OCR techniques from Google Cloud Vision into HealthPass product to extract data on physical exam reports ([替個人健檢報告加值，這家新創用區塊鏈從健康數據淘金｜數位時代](https://www.bnext.com.tw/article/52543/health2sync-ctbc-bank-and-bitmark-launch-world-frst-diabetes-data-trust))
 	* Performed analyses and provided insights for product development and external stakeholders including (but not limited to) Johnson & Johnson, Sanofi Taiwan, and MSD Taiwan
-	* Introduced OKR system to the company
+	* Deployed Dockerized Shiny server on AWS EC2 instance
 2. Research Assistant at National Taiwan University, Graduate Institute of Brain and Mind Sciences (Oct 2015 - Dec 2017).
 	* Built and validated an age- and sex-fair Taiwanese facial expression stimuli database
 	* Reported age- and sex-related behavioral differences on patterns of East Asians' face perception with the following analyses:
