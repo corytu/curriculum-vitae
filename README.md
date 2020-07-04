@@ -4,7 +4,6 @@ Health2Sync<br>
 8F., No.32, Aly. 18, Ln. 478, Ruiguang Rd.,<br>
 Neihu Dist., Taipei City 11492,
 Taiwan<br><br>
-Email: <a href="mailto:ytu@health2sync.com">ytu@health2sync.com</a><br>
 LinkedIn: <a href="https://www.linkedin.com/in/yu-zhen-tu-251805135/">Yu-Zhen Tu</a><br>
 </p>
 
