@@ -1,23 +1,26 @@
 <p style="text-align: center;">
 Yu-Zhen Tu<br><br>
-Health2Sync<br>
-8F., No.32, Aly. 18, Ln. 478, Ruiguang Rd.,<br>
-Neihu Dist., Taipei City 11492,
-Taiwan<br><br>
-LinkedIn: <a href="https://www.linkedin.com/in/yu-zhen-tu-251805135/">Yu-Zhen Tu</a><br>
+<a href="https://www.linkedin.com/in/yu-zhen-tu-251805135/">LinkedIn</a> | <a href="https://github.com/corytu">GitHub</a> | <a href="https://stackoverflow.com/users/6666231/ytu">Stack Overflow</a>
 </p>
+
+# Summary
+
+Majored in clinical laboratory science and cognitive neuroscience. Skilled at statistics, data analysis, oral presentation, paper manuscript writing and publication, and ETL data pipeline design / construction. Committed to bringing insights from data, and expressing them to people - especially creating RWE in biomedicine-related topics.
 
 # Employment
 
-1. Data Engineer at Health2Sync (Jan 2018 - present).
+1. Data Engineer & Project Manager at Health2Sync (Mar 2020 - present).
+	* Coordinated Data, Backend, Business Development, and Product teams' resources to a) onboard more than 25 clinical labs and 120 clinics in Taiwan and collect lab test results from them, and b) refine the data flow with MongoDB and Apache Kafka for both app products and data analyses, making it scalable worldwide
+	* Published paper manuscript on JMIR Preprints regarding RWE for the relationship between HbA1c decrease and app retention, showing the efficacy of digital intervention
+2. Data Engineer at Health2Sync (Jan 2018 - Mar 2020).
 	* Introduced OKR system to the company and helping to set and review objectives of data team
-	* Proactively planned features on [HealthPass (健康護照)](https://www.healthpass.cc), including Health Guide, to enable users to understand their health data
-	* Built real-world evidence of product efficacy from collected data and wrote paper manuscript for publication
+	* Built real-world evidence (RWE) of product efficacy from collected data and wrote paper manuscript for publication
+	* Performed analyses and provided business insights for product development and external stakeholders including MSD Taiwan, Sanofi Taiwan, and Johnson & Johnson
 	* Constructed ETL data pipeline to sync data from clinical laboratories to app products and analysis tools
+	* Proactively planned features on [HealthPass (健康護照)](https://www.healthpass.cc), including Health Guide, to enable users to understand their health data
 	* Implemented OCR techniques from Google Cloud Vision into HealthPass product to extract data on physical exam reports ([替個人健檢報告加值，這家新創用區塊鏈從健康數據淘金｜數位時代](https://www.bnext.com.tw/article/52543/health2sync-ctbc-bank-and-bitmark-launch-world-frst-diabetes-data-trust))
-	* Performed analyses and provided insights for product development and external stakeholders including (but not limited to) Johnson & Johnson, Sanofi Taiwan, and MSD Taiwan
 	* Deployed Dockerized Shiny server on AWS EC2 instance
-2. Research Assistant at National Taiwan University, Graduate Institute of Brain and Mind Sciences (Oct 2015 - Dec 2017).
+3. Research Assistant at National Taiwan University, Graduate Institute of Brain and Mind Sciences (Oct 2015 - Dec 2017).
 	* Built and validated an age- and sex-fair Taiwanese facial expression stimuli database
 	* Reported age- and sex-related behavioral differences on patterns of East Asians' face perception with the following analyses:
 		* Multidimensional scaling
@@ -27,11 +30,16 @@ LinkedIn: <a href="https://www.linkedin.com/in/yu-zhen-tu-251805135/">Yu-Zhen Tu
 	* Provided assistance including R tutorial and academic advices for junior students
 	* Established experiment space and SOP for venipuncture and human DNA extraction
 	* Allocated grant budgets and Research Ethics Committee paper works
-3. Part-time Medical Technologist at National Taiwan University Hospital, Bei-Hu Branch (Jun 2014 - Aug 2014).
+4. Part-time Medical Technologist at National Taiwan University Hospital, Bei-Hu Branch (Jun 2014 - Aug 2014).
 	* Venipuncture
 	* Routine urine tests
 	* EKG (Electrocardiogram) test
 	* ESR (Erythrocyte sedimentation rate) test
+
+# Skills
+
+* Python, R, Git, PostgreSQL, MongoDB, Docker, gRPC
+* Statistics, academic writing, research presentation, real-world evidence (RWE)
 
 # Education
 
@@ -78,48 +86,11 @@ LinkedIn: <a href="https://www.linkedin.com/in/yu-zhen-tu-251805135/">Yu-Zhen Tu
 
 1. Lecturer of [Taiwan R User Group / MLDM Monday Meetup](https://www.meetup.com/Taiwan-R/events/254369159/) (Oct 2018)
 2. Invited Coursera Beta Tester (Nov 2016 - present)
-3. Invited Coursera Community Mentor of “R Programming” (Jul 2016 - Sep 2018)
+3. Invited Coursera Community Mentor of "R Programming" (Jul 2016 - Sep 2018)
 
-# Licenses and Certificates
+# Foreign Language Capability
 
-## Foreign Language Capability
-
-1. TOEIC score: 945 (Jul 2016)<br>Listening: 450<br>Reading: 495
-
-## Programming Ability
-
-1. "R Language Today" Certificate (Jun 2016)
-
-## Coursera Certificates
-
-1. [Introduction to MongoDB](https://www.coursera.org/account/accomplishments/certificate/DQENTJD4N6CM) (Apr 2020)
-2. [Introduction to Data Science in Python](https://www.coursera.org/account/accomplishments/verify/TJ84YLNAJ79U) (Apr 2019)
-3. [Version Control with Git](https://www.coursera.org/account/accomplishments/verify/Y8UGNWPTBHJT) (Jun 2018)
-4. [How Google does Machine Learning](https://www.coursera.org/account/accomplishments/verify/5GD6TPUMJGJD) (Mar 2018)
-5. [Using Databases with Python](https://www.coursera.org/account/accomplishments/verify/ZG9RXUMTXQX3) (Dec 2017)
-6. [Epidemics](https://www.coursera.org/account/accomplishments/verify/YUAGTNFWDCJH) (Nov 2017)
-7. [Python Data Structures](https://www.coursera.org/account/accomplishments/verify/Z59HEA7SXS8U) (Oct 2017)
-8. [The Unix Workbench](https://www.coursera.org/account/accomplishments/verify/LG7LMWK6NAJ8) (Oct 2017)
-9. [Coursera Mentor - 12 Months](https://t.cred.ly/gz31zFS7j2IFzJEEqqlBSw,,$$$nqwzpIVCNjcPh6tWOnty93ZiVXKrxmUsdr5GtUNnSLH5Ils3qEZCxqOlCKET4T5LnsxrFYlHCGzGpezvrPde8Rv2sgPPcsInhHTiIKAj0tA,?r=https%3A%2F%2Fcredly.com%2Fcredit%2F14109744&t=1503029976&c=sl) (Aug 2017)
-10. [Serverless Machine Learning with Tensorflow on Google Cloud Platform](https://www.coursera.org/account/accomplishments/verify/Y45P87VDUFED) (Jun 2017)
-11. [Practical Machine Learning](https://www.coursera.org/account/accomplishments/verify/XJAP6K7XKSHA) (May 2017)
-12. [Introduction to HTML5](https://www.coursera.org/account/accomplishments/verify/GE8XTE3JLN3G) (Mar 2017)
-13. [Developing Data Products](https://www.coursera.org/account/accomplishments/verify/MA6RW2C5BNMC) (Feb 2017)
-14. [The Data Scientist’s Toolbox](https://www.coursera.org/account/accomplishments/verify/93U7MS6GC9P2) (Feb 2017)
-15. [Coursera Mentor Community and Training Course (with Honors)](https://www.coursera.org/account/accomplishments/verify/GKLMT6S8VL8X) (Dec 2016)
-16. [Managing Big Data with MySQL](https://www.coursera.org/account/accomplishments/verify/G5CEJWGTAWDF) (Aug 2016)
-17. [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/account/accomplishments/verify/UHSBKPNGLPWB) (Aug 2016)
-18. [Exploratory Data Analysis](https://www.coursera.org/account/accomplishments/verify/J72GABTSGBKE) (Jul 2016)
-19. [Regression Models](https://www.coursera.org/account/accomplishments/verify/R6ZBXXUX8M4T) (Jun 2016)
-20. [R Programming](https://www.coursera.org/account/accomplishments/verify/V6VFG4MCCT7Y) (May 2016)
-
-## Other Course Certificates
-
-1. 2017 Summer Course on Modeling and Analysis of Infectious Diseases (Jul 2017)
-
-## Clinical Ability
-
-1. Medical Technologist License (Sep 2013)
+- TOEIC score: 945 (Jul 2016)<br>Listening: 450<br>Reading: 495
 
 # Club Experiences
 
