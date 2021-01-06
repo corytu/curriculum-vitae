@@ -22,7 +22,7 @@ Majored in clinical laboratory science and cognitive neuroscience. Skilled at st
 	* Deployed Dockerized Shiny server on AWS EC2 instance
 3. Research Assistant at National Taiwan University, Graduate Institute of Brain and Mind Sciences (Oct 2015 - Dec 2017).
 	* Built and validated an age- and sex-fair Taiwanese facial expression stimuli database
-	* Reported age- and sex-related behavioral differences on patterns of East Asians' face perception with the following analyses:
+	* Published paper on Frontiers in Psychology, reporting age- and sex-related behavioral differences on patterns of East Asians' face perception with the following analyses:
 		* Multidimensional scaling
 		* Hierarchical clustering
 		* MCMC (Markov chain Monte Carlo) mixed models
