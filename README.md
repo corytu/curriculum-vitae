@@ -5,7 +5,7 @@ Yu-Zhen Tu<br><br>
 
 # Summary
 
-Majored in clinical laboratory science and cognitive neuroscience. Skilled at statistics, data analysis, oral presentation, paper manuscript writing and publication, and ETL data pipeline design / construction. Committed to bringing insights from data, and expressing them to people - especially creating RWE in biomedicine-related topics.
+Majored in clinical laboratory science and cognitive neuroscience. Skilled at statistics, data analysis, oral presentation, paper manuscript writing and publication, and ETL data pipeline design / construction. Committed to bringing insights from data, and expressing them to people.
 
 # Employment
 
@@ -39,7 +39,7 @@ Majored in clinical laboratory science and cognitive neuroscience. Skilled at st
 # Skills
 
 * Python, R, Git, PostgreSQL, MongoDB, Docker, gRPC
-* Statistics, academic writing, research presentation, real-world evidence (RWE)
+* Statistics, data analysis, academic writing, research presentation, real-world evidence (RWE)
 
 # Education
 
