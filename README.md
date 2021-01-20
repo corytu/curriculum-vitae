@@ -54,8 +54,7 @@ Majored in clinical laboratory science and cognitive neuroscience. Skilled at st
 2. Goh, J. O. S., Li, C.-Y., **Tu, Y.-Z.**, & Dallaire-Théroux, C. (2020). *Visual cognition and culture. In O. Pedraza (Ed.), Clinical cultural neuroscience: Foundations and neuropsychological assessment*: Oxford University Press.
 3. Chen, C.-C., Su, Y.-S., **Tu, Y.-Z.**, Goh, J. O. S. (2019). Default-mode network activation underlies accurate contextual processing of exclusive disjunctions in older but not younger adults. *NeuroImage*, 201. doi: [10.1016/j.neuroimage.2019.116012](https://doi.org/10.1016/j.neuroimage.2019.116012)
 4. **Tu, Y.-Z.**, Lin, D.-W., Suzuki, A., & Goh, J. O. S. (2018). East Asian young and older adult perceptions of emotional faces from an age- and sex-fair East Asian facial expression database. *Frontiers in Psychology*, 9, 2358. doi: [10.3389/fpsyg.2018.02358](https://doi.org/10.3389/fpsyg.2018.02358)
-5. Hsu, T.-N., **Tu, Y.-Z.**, Hsieh, U.-L., Huang, T.-R., & Goh, J. O. S. (2017). Blood biochemistry associations with age and cognitive performance. Manuscript in preparation.
-6. **Tu, Y.-Z.** (2015). *Age-related differences in dimensional processing of emotion stimuli: Picture scenes and facial expressions*. (Master thesis), National Taiwan University.
+5. **Tu, Y.-Z.** (2015). *Age-related differences in dimensional processing of emotion stimuli: Picture scenes and facial expressions*. (Master thesis), National Taiwan University.
 
 ## Conference Abstracts
 
