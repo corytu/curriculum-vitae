@@ -5,7 +5,7 @@
 
 # Summary
 
-Majored in clinical laboratory science and cognitive neuroscience. Skilled at statistics, data analysis, oral presentation, paper manuscript writing and publication, and ETL data pipeline design / construction. Committed to bringing insights from data, and expressing them to people.
+Majored in clinical laboratory science and cognitive neuroscience. Skilled at statistics, data analysis, oral presentation, paper manuscript writing and publication, and ETL data pipeline design / construction. Committed to bringing actionable insights from data, and expressing them to people.
 
 # Employment
 
