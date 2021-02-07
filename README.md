@@ -41,6 +41,7 @@ Majored in clinical laboratory science and cognitive neuroscience. Skilled at st
 
 * Python, R, Git, PostgreSQL, MongoDB, Docker, gRPC
 * Statistics, data analysis, academic writing, research presentation, real-world evidence (RWE)
+* Multitasking, interpersonal communication, project management, leadership
 
 # Education
 
