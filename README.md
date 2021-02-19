@@ -11,7 +11,7 @@ Majored in clinical laboratory science and cognitive neuroscience. Skilled at st
 
 1. Data Engineer & Project Manager at Health2Sync (Mar 2020 - present).
 	* Initiated the idea of collecting clinical lab data as a strategic asset of Health2Sync (H2 Inc.)
-	* Coordinated Data, Backend, Business Development, and Product teams' resources to a) onboard more than 25 clinical labs and 120 clinics in Taiwan and collect lab test results from them, and b) refine the data flow with MongoDB and Apache Kafka for both app products and data analyses, making it scalable worldwide
+	* Served as the liaison between third parties and Health2Sync, and coordinated Data, Backend, Business Development, and Product teams' resources to a) onboard more than 25 clinical labs and 120 clinics in Taiwan and collect lab test results from them, and b) refine the data flow with MongoDB and Apache Kafka for both app products and data analyses, making it scalable worldwide
 	* Published paper manuscript on JMIR Preprints regarding RWE for the relationship between HbA1c decrease and app retention, showing the efficacy of digital intervention, and deepen the relationship with stakeholders for digital therapeutics
 2. Data Engineer at Health2Sync (Jan 2018 - Mar 2020).
 	* Introduced OKR system to the company and helping to set and review objectives of data team
