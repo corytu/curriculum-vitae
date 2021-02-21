@@ -5,17 +5,18 @@
 
 # Summary
 
-Majored in clinical laboratory science and cognitive neuroscience. Skilled at statistics, data analysis, oral presentation, paper manuscript writing and publication, and ETL data pipeline design / construction. Committed to bringing actionable insights from data, and expressing them to people.
+I am a data professional with strategic thinking, critical thinking, and good cross-functional communication for project management. Particularly interested in bringing actionable insights from data, and helping the world become a better place with data-driven decision making. Majored in clinical laboratory science and cognitive neuroscience for my bachelor and master degree, respectively.
 
 # Employment
 
 1. Data Engineer & Project Manager at Health2Sync (Mar 2020 - present).
-	* Initiated the idea of collecting clinical lab data as a strategic asset of Health2Sync (H2 Inc.)
+	* Initiated and realized the idea of collecting clinical lab data as a strategic asset of Health2Sync (H2 Inc.)
 	* Served as the liaison between third parties and Health2Sync, and coordinated Data, Backend, Business Development, and Product teams' resources to a) onboard more than 25 clinical labs and 120 clinics in Taiwan and collect lab test results from them, and b) refine the data flow with MongoDB and Apache Kafka for both app products and data analyses, making it scalable worldwide
 	* Published paper manuscript on JMIR Preprints regarding RWE for the relationship between HbA1c decrease and app retention, showing the efficacy of digital intervention, and deepen the relationship with stakeholders for digital therapeutics
 2. Data Engineer at Health2Sync (Jan 2018 - Mar 2020).
 	* Introduced OKR system to the company and helping to set and review objectives of data team
 	* Built real-world evidence (RWE) of product efficacy from collected data and wrote paper manuscript for publication
+	* Found the activity difference between user groups and suggested the company investing more resources on the users acquired from specific channels
 	* Performed analyses and provided business insights for product development and external stakeholders including MSD Taiwan, Sanofi Taiwan, and Johnson & Johnson
 	* Constructed ETL data pipeline to sync data from clinical laboratories to app products and analysis tools
 	* Proactively planned features on [HealthPass (健康護照)](https://www.healthpass.cc), including Health Guide, to enable users to understand their health data
