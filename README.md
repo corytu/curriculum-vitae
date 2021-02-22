@@ -15,7 +15,7 @@ I am a data professional with strategic thinking, critical thinking, and good cr
 	* Published paper manuscript on JMIR Preprints regarding RWE for the relationship between HbA1c decrease and app retention, showing the efficacy of digital intervention, and deepen the relationship with stakeholders for digital therapeutics
 2. Data Engineer at Health2Sync (Jan 2018 - Mar 2020).
 	* Introduced OKR system to the company and helping to set and review objectives of data team
-	* Built real-world evidence (RWE) of product efficacy from collected data and wrote paper manuscript for publication
+	* Designed analyses protocol for real-world evidence (RWE) of product efficacy from collected data and wrote paper manuscript for publication
 	* Found the activity difference between user groups and suggested the company investing more resources on the users acquired from specific channels
 	* Performed analyses and provided business insights for product development and external stakeholders including MSD Taiwan, Sanofi Taiwan, and Johnson & Johnson
 	* Constructed ETL data pipeline to sync data from clinical laboratories to app products and analysis tools
