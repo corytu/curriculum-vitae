@@ -9,11 +9,11 @@ I am a data professional with strategic thinking, critical thinking, and good cr
 
 # Employment
 
-1. Data Engineer & Project Manager at Health2Sync (Mar 2020 - present).
+1. Data Engineer & Project Manager at [Health2Sync](https://www.health2sync.com) (Mar 2020 - Feb 2021).
 	* Initiated and realized the idea of collecting clinical lab data as a strategic asset of Health2Sync (H2 Inc.)
 	* Served as the liaison between third parties and Health2Sync, and coordinated Data, Backend, Business Development, and Product teams' resources to a) onboard more than 25 clinical labs and 120 clinics in Taiwan and collect lab test results from them, and b) refine the data flow with MongoDB and Apache Kafka for both app products and data analyses, making it scalable worldwide
 	* Published paper manuscript on JMIR Preprints regarding RWE for the relationship between HbA1c decrease and app retention, showing the efficacy of digital intervention, and deepen the relationship with stakeholders for digital therapeutics
-2. Data Engineer at Health2Sync (Jan 2018 - Mar 2020).
+2. Data Engineer at [Health2Sync](https://www.health2sync.com) (Jan 2018 - Mar 2020).
 	* Introduced OKR system to the company and helping to set and review objectives of data team
 	* Designed analyses protocol for real-world evidence (RWE) of product efficacy from collected data and wrote paper manuscript for publication
 	* Found the activity difference between user groups and suggested the company investing more resources on the users acquired from specific channels
@@ -22,7 +22,7 @@ I am a data professional with strategic thinking, critical thinking, and good cr
 	* Proactively planned features on [HealthPass (健康護照)](https://www.healthpass.cc), including Health Guide, to enable users to understand their health data
 	* Implemented OCR techniques from Google Cloud Vision into HealthPass product to extract data on physical exam reports ([替個人健檢報告加值，這家新創用區塊鏈從健康數據淘金｜數位時代](https://www.bnext.com.tw/article/52543/health2sync-ctbc-bank-and-bitmark-launch-world-frst-diabetes-data-trust))
 	* Deployed Dockerized Shiny server on AWS EC2 instance
-3. Research Assistant at National Taiwan University, Graduate Institute of Brain and Mind Sciences (Oct 2015 - Dec 2017).
+3. Research Assistant at [National Taiwan University, Graduate Institute of Brain and Mind Sciences](http://gibms.mc.ntu.edu.tw) (Oct 2015 - Dec 2017).
 	* Built and validated an age- and sex-fair Taiwanese facial expression stimuli database
 	* Published paper on Frontiers in Psychology, reporting age- and sex-related behavioral differences on patterns of East Asians' face perception with the following analyses:
 		* Multidimensional scaling
@@ -32,7 +32,7 @@ I am a data professional with strategic thinking, critical thinking, and good cr
 	* Provided assistance including R tutorial and academic advices for junior students
 	* Established experiment space and SOP for venipuncture and human DNA extraction
 	* Allocated grant budgets and Research Ethics Committee paper works
-4. Part-time Medical Technologist at National Taiwan University Hospital, Bei-Hu Branch (Jun 2014 - Aug 2014).
+4. Part-time Medical Technologist at [National Taiwan University Hospital, Bei-Hu Branch](https://www.bh.ntuh.gov.tw) (Jun 2014 - Aug 2014).
 	* Venipuncture
 	* Routine urine tests
 	* EKG (Electrocardiogram) test
