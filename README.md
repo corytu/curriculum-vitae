@@ -12,7 +12,7 @@ I am a data professional with strategic thinking, critical thinking, and good cr
 ## [Health2Sync](https://www.health2sync.com)
 
 - **Data Engineer & Project Manager** (Mar 2020 - Feb 2021)
-	- Initiated and realized the idea of collecting clinical lab data as a strategic asset of Health2Sync (H2 Inc.)
+	- Initiated and realized the idea of collecting clinical lab data as a strategic asset of Health2Sync (H2 Inc.), enabling the company to expand the scope of service from diabetes to all metabolic chronic diseases
 	- Served as the liaison between third parties and Health2Sync, and coordinated Data, Backend, Business Development, and Product teams' resources to a) onboard more than 25 clinical labs and 120 clinics in Taiwan and collect lab test results from them, and b) refine the data flow with MongoDB and Apache Kafka for both app products and data analyses, making it scalable worldwide
 	- Published paper manuscript on JMIR Preprints regarding RWE for the relationship between HbA1c decrease and app retention, showing the efficacy of digital intervention, which is utilized to deepen the relationship with stakeholders and to create opportunities of health economics advantages for digital therapeutics
 - **Data Engineer** (Jan 2018 - Mar 2020)
