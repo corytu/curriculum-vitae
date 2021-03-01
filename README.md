@@ -11,11 +11,11 @@ I am a data professional with strategic thinking, critical thinking, and good cr
 
 ## [Health2Sync](https://www.health2sync.com)
 
-- Data Engineer & Project Manager (Mar 2020 - Feb 2021)
+- **Data Engineer & Project Manager** (Mar 2020 - Feb 2021)
 	- Initiated and realized the idea of collecting clinical lab data as a strategic asset of Health2Sync (H2 Inc.)
 	- Served as the liaison between third parties and Health2Sync, and coordinated Data, Backend, Business Development, and Product teams' resources to a) onboard more than 25 clinical labs and 120 clinics in Taiwan and collect lab test results from them, and b) refine the data flow with MongoDB and Apache Kafka for both app products and data analyses, making it scalable worldwide
 	- Published paper manuscript on JMIR Preprints regarding RWE for the relationship between HbA1c decrease and app retention, showing the efficacy of digital intervention, which is utilized to deepen the relationship with stakeholders and to create opportunities of health economics advantages for digital therapeutics
-- Data Engineer (Jan 2018 - Mar 2020)
+- **Data Engineer** (Jan 2018 - Mar 2020)
 	- Introduced OKR system to the company and helped to set and review objectives of data team
 	- Designed analyses protocol for real-world evidence (RWE) of product efficacy from collected data and wrote paper manuscript for publication
 	- Found the activity difference between user groups and suggested the company investing more resources on the users acquired from specific channels
@@ -27,7 +27,7 @@ I am a data professional with strategic thinking, critical thinking, and good cr
 
 ## [National Taiwan University,<br>Graduate Institute of Brain and Mind Sciences](http://gibms.mc.ntu.edu.tw)
 
-- Research Assistant (Oct 2015 - Dec 2017)
+- **Research Assistant** (Oct 2015 - Dec 2017)
 	- Built and validated an age- and sex-fair Taiwanese facial expression stimuli database
 	- Published paper on Frontiers in Psychology, reporting age- and sex-related behavioral differences on patterns of East Asians' face perception with the following analyses:
 		- Multidimensional scaling
@@ -40,7 +40,7 @@ I am a data professional with strategic thinking, critical thinking, and good cr
 
 ## [National Taiwan University Hospital,<br>Bei-Hu Branch](https://www.bh.ntuh.gov.tw)
 
-- Part-time Medical Technologist (Jun 2014 - Aug 2014)
+- **Medical Technologist (part-time)** (Jun 2014 - Aug 2014)
 	- Venipuncture
 	- Routine urine tests
 	- EKG (Electrocardiogram) test
