@@ -5,7 +5,7 @@
 
 # Summary
 
-I am a data professional with strategic thinking, critical thinking, and good cross-functional communication for project management. Particularly interested in bringing actionable insights from data, and helping the world become a better place with data-driven decision making. Majored in clinical laboratory science and cognitive neuroscience for my bachelor and master degree, respectively.
+An experienced researcher/engineer with proven capability to propose and to realize a zero-to-one project. The major achievements include designing the analysis protocol to demonstrate real-world evidence of product efficacy, and organizing the results into academic manuscripts for publication. Also skilled at leading cross-functional teams to arranged destinations. Particularly interested in bringing actionable insights from data, and helping people to make better decisions.
 
 # Employment
 
