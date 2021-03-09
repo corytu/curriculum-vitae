@@ -54,11 +54,11 @@ An experienced researcher/engineer with proven capability to propose and to real
 
 # Featured Certificates
 
-- TOEIC (Jul 2016)
+- TOEIC (*Educational Testing Service*, Jul 2016)
 	- Listening: 450
 	- Reading: 495
-- R Language Today (Jun 2016)
-- Medical Technologist (Sep 2013)
+- R Language Today (*Silicon Stone Education Inc.*, Jun 2016)
+- Medical Technologist (*Ministry of Health and Welfare*, Sep 2013)
 - Numerous data- or management-related course certificates (see my LinkedIn profile)
 
 # Education
