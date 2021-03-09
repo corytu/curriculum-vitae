@@ -52,6 +52,15 @@ An experienced researcher/engineer with proven capability to propose and to real
 - Statistics, data analysis, academic writing, research presentation, real-world evidence (RWE)
 - Multitasking, interpersonal communication, project management, leadership
 
+# Featured Certificates
+
+- TOEIC (Jul 2016)
+	- Listening: 450
+	- Reading: 495
+- R Language Today (Jun 2016)
+- Medical Technologist (Sep 2013)
+- Numerous data- or management-related course certificates (see my LinkedIn profile)
+
 # Education
 
 1. National Taiwan University, Graduate Institute of Brain and Mind Sciences, Master of Science (Sep 2013 - Jun 2015).
@@ -97,10 +106,6 @@ An experienced researcher/engineer with proven capability to propose and to real
 1. Lecturer of [Taiwan R User Group / MLDM Monday Meetup](https://www.meetup.com/Taiwan-R/events/254369159/) (Oct 2018)
 2. Invited Coursera Beta Tester (Nov 2016 - present)
 3. Invited Coursera Community Mentor of "R Programming" (Jul 2016 - Sep 2018)
-
-# Foreign Language Capability
-
-- TOEIC score: 945 (Jul 2016)<br>Listening: 450<br>Reading: 495
 
 # Club Experiences
 
