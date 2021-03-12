@@ -1,6 +1,8 @@
 <p style="text-align: center;">
 <strong>Yu-Zhen Tu</strong><br>
-<a href="https://www.linkedin.com/in/yu-zhen-tu-251805135/">LinkedIn</a> | <a href="https://github.com/corytu">GitHub</a> | <a href="https://stackoverflow.com/users/6666231/ytu">Stack Overflow</a>
+<a href="https://www.linkedin.com/in/yu-zhen-tu-251805135/">LinkedIn</a> | <a href="https://github.com/corytu">GitHub</a> | <a href="https://stackoverflow.com/users/6666231/ytu">Stack Overflow</a><br>
+Cell phone: +886-961022121<br>
+Email: <a href="mailto:clsmb9744@gmail.com">clsmb9744@gmail.com</a>
 </p>
 
 # Summary
