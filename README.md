@@ -14,13 +14,13 @@ An experienced researcher/engineer with proven capability to propose and to real
 ## [Health2Sync](https://www.health2sync.com)
 
 - **Data Engineer & Project Manager** (Mar 2020 - Feb 2021)
-	- Initiated and realized the idea of collecting clinical lab data as a strategic asset of Health2Sync (H2 Inc.), enabling the company to expand the scope of service from diabetes to all metabolic chronic diseases
-	- Served as the liaison between third parties and Health2Sync, and coordinated Data, Backend, Business Development, and Product teams' resources to a) onboard more than 25 clinical labs and 120 clinics in Taiwan and collect lab test results from them, and b) refine the data flow with MongoDB and Apache Kafka for both app products and data analyses, making it scalable worldwide
+	- Proposed and realized the idea of collecting clinical lab data as a strategic asset of Health2Sync (H2 Inc.), enabling the company to expand the scope of service from diabetes to all metabolic chronic diseases
+	- Coordinated Data, Backend, Business Development, and Product teams' resources to a) onboard more than 25 clinical labs and 120 clinics in Taiwan and collect lab test results from them, and b) refine the data flow with MongoDB and Apache Kafka for both app products and data analyses, making it scalable worldwide
 	- Published paper manuscript on JMIR Preprints regarding RWE for the relationship between HbA1c decrease and app retention, showing the efficacy of digital intervention, which is utilized to deepen the relationship with stakeholders and to create opportunities of health economics advantages for digital therapeutics
 - **Data Engineer** (Jan 2018 - Mar 2020)
 	- Introduced OKR system to the company and helped to set and review objectives of data team
 	- Designed analyses protocol for real-world evidence (RWE) of product efficacy from collected data and wrote paper manuscript for publication
-	- Found the activity difference between user groups and suggested the company investing more resources on the users acquired from specific channels
+	- Found the activity difference between user groups and provided actionable insights to increase 3-month retention ratio by 20%
 	- Performed analyses and provided business insights for product development and external stakeholders including MSD Taiwan, Sanofi Taiwan, and Johnson & Johnson
 	- Constructed ETL data pipeline to sync data from clinical laboratories to app products and analysis tools
 	- Proactively planned features on [HealthPass (健康護照)](https://www.healthpass.cc), including Health Guide, to enable users to understand their health data
