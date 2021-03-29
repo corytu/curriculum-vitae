@@ -14,39 +14,39 @@ An experienced researcher/engineer with proven capability to propose and to real
 ## [Health2Sync](https://www.health2sync.com)
 
 - **Data Engineer & Project Manager** (Mar 2020 - Feb 2021)
-	- Proposed and realized the idea of collecting clinical lab data as a strategic asset of Health2Sync (H2 Inc.), enabling the company to expand the scope of service from diabetes to all metabolic chronic diseases
-	- Coordinated Data, Backend, Business Development, and Product teams' resources to a) onboard more than 25 clinical labs and 120 clinics in Taiwan and collect lab test results from them, and b) refine the data flow with MongoDB and Apache Kafka for both app products and data analyses, making it scalable worldwide
-	- Published paper manuscript on JMIR Preprints regarding RWE for the relationship between HbA1c decrease and app retention, showing the efficacy of digital intervention, which is utilized to deepen the relationship with stakeholders and to create opportunities of health economics advantages for digital therapeutics
+  - Proposed and realized the idea of collecting clinical lab data as a strategic asset of Health2Sync (H2 Inc.), enabling the company to expand the scope of service from diabetes to all metabolic chronic diseases
+  - Coordinated Data, Backend, Business Development, and Product teams' resources to a) onboard more than 25 clinical labs and 120 clinics in Taiwan and collect lab test results from them, and b) refine the data flow with MongoDB and Apache Kafka for both app products and data analyses, making it scalable worldwide
+  - Submitted paper manuscript to JMIR regarding RWE for the relationship between HbA1c decrease and app retention, showing the efficacy of digital intervention, which is utilized to deepen the relationship with stakeholders and to create opportunities of health economics advantages for digital therapeutics
 - **Data Engineer** (Jan 2018 - Mar 2020)
-	- Introduced OKR system to the company and helped to set and review objectives of data team
-	- Designed analyses protocol for real-world evidence (RWE) of product efficacy from collected data and wrote paper manuscript for publication
-	- Found the activity difference between user groups and provided actionable insights to increase 3-month retention ratio by 20%
-	- Performed analyses and provided business insights for product development and external stakeholders including MSD Taiwan, Sanofi Taiwan, and Johnson & Johnson
-	- Constructed ETL data pipeline to sync data from clinical laboratories to app products and analysis tools
-	- Proactively planned features on [HealthPass (健康護照)](https://www.healthpass.cc), including Health Guide, to enable users to understand their health data
-	- Implemented OCR techniques from Google Cloud Vision into HealthPass product to extract data on physical exam reports ([替個人健檢報告加值，這家新創用區塊鏈從健康數據淘金｜數位時代](https://www.bnext.com.tw/article/52543/health2sync-ctbc-bank-and-bitmark-launch-world-frst-diabetes-data-trust))
-	- Deployed Dockerized Shiny server on AWS EC2 instance
+  - Introduced OKR system to the company and helped to set and review objectives of data team
+  - Designed analyses protocol for real-world evidence (RWE) of product efficacy from collected data and wrote paper manuscript for publication
+  - Found the activity difference between user groups and provided actionable insights to increase 3-month retention ratio by 20%
+  - Performed analyses and provided business insights for product development and external stakeholders including MSD Taiwan, Sanofi Taiwan, and Johnson & Johnson
+  - Constructed ETL data pipeline to sync data from clinical laboratories to app products and analysis tools
+  - Proactively planned features on [HealthPass (健康護照)](https://www.healthpass.cc), including Health Guide, to enable users to understand their health data
+  - Implemented OCR techniques from Google Cloud Vision into HealthPass product to extract data on physical exam reports ([替個人健檢報告加值，這家新創用區塊鏈從健康數據淘金｜數位時代](https://www.bnext.com.tw/article/52543/health2sync-ctbc-bank-and-bitmark-launch-world-frst-diabetes-data-trust))
+  - Deployed Dockerized Shiny server on AWS EC2 instance
 
 ## [National Taiwan University,<br>Graduate Institute of Brain and Mind Sciences](http://gibms.mc.ntu.edu.tw)
 
 - **Research Assistant** (Oct 2015 - Dec 2017)
-	- Built and validated an age- and sex-fair Taiwanese facial expression stimuli database
-	- Published paper on Frontiers in Psychology, reporting age- and sex-related behavioral differences on patterns of East Asians' face perception with the following analyses:
-		- Multidimensional scaling
-		- Hierarchical clustering
-		- MCMC (Markov chain Monte Carlo) mixed models
-	- Maintained Linux (CentOS) server
-	- Provided assistance including R tutorial and academic advices for junior students
-	- Established experiment space and SOP for venipuncture and human DNA extraction
-	- Allocated grant budgets and Research Ethics Committee paper works
+  - Built and validated an age- and sex-fair Taiwanese facial expression stimuli database
+  - Published paper on Frontiers in Psychology, reporting age- and sex-related behavioral differences on patterns of East Asians' face perception with the following analyses:
+    - Multidimensional scaling
+    - Hierarchical clustering
+    - MCMC (Markov chain Monte Carlo) mixed models
+  - Maintained Linux (CentOS) server
+  - Provided assistance including R tutorial and academic advices for junior students
+  - Established experiment space and SOP for venipuncture and human DNA extraction
+  - Allocated grant budgets and Research Ethics Committee paper works
 
 ## [National Taiwan University Hospital,<br>Bei-Hu Branch](https://www.bh.ntuh.gov.tw)
 
 - **Medical Technologist (part-time)** (Jun 2014 - Aug 2014)
-	- Venipuncture
-	- Routine urine tests
-	- EKG (Electrocardiogram) test
-	- ESR (Erythrocyte sedimentation rate) test
+  - Venipuncture
+  - Routine urine tests
+  - EKG (Electrocardiogram) test
+  - ESR (Erythrocyte sedimentation rate) test
 
 # Skills
 
@@ -57,8 +57,8 @@ An experienced researcher/engineer with proven capability to propose and to real
 # Featured Certificates
 
 - TOEIC (*Educational Testing Service*, Jul 2016)
-	- Listening: 450
-	- Reading: 495
+  - Listening: 450
+  - Reading: 495
 - R Language Today (*Silicon Stone Education Inc.*, Jun 2016)
 - Medical Technologist (*Ministry of Health and Welfare*, Sep 2013)
 - Numerous data- or management-related course certificates (see my LinkedIn profile)
@@ -80,28 +80,40 @@ An experienced researcher/engineer with proven capability to propose and to real
 
 ## Conference Abstracts
 
-1. Yuan, S.-Y., **Tu, Y.-Z.**, Wang, P.-Y., Goh, J. O. S. (2014). Dietary macronutrient composition is differentially associated with gray matter volume in young and older adults. Presented at the Society for Neuroscience Annual Meeting, Washington, DC, USA. [[pdf](https://drive.google.com/file/d/0BzjcVTDEKxiva0JXTDJlcEplU0U/view)][[Abstract](http://www.abstractsonline.com/Plan/ViewAbstract.aspx?sKey=ff62ca82-9063-4f1e-a580-31bf3688349a&cKey=f094b7b4-a3e8-4d0c-9505-192458dcace4&mKey=54c85d94-6d69-4b09-afaa-502c0e680ca7)]
+1. Yuan, S.-Y., **Tu, Y.-Z.**, Wang, P.-Y., Goh, J. O. S. (2014). Dietary macronutrient composition is differentially associated with gray matter volume in young and older adults. Presented at the Society for Neuroscience Annual Meeting, Washington, DC, USA. [[pdf](https://drive.google.com/file/d/0BzjcVTDEKxiva0JXTDJlcEplU0U/view)] [[Abstract](http://www.abstractsonline.com/Plan/ViewAbstract.aspx?sKey=ff62ca82-9063-4f1e-a580-31bf3688349a&cKey=f094b7b4-a3e8-4d0c-9505-192458dcace4&mKey=54c85d94-6d69-4b09-afaa-502c0e680ca7)]
 
 # Side Projects
 
 - [Recommend Itinerary](https://github.com/corytu/recommend-itinerary) (Sep 2019)
-	- Used Word2Vec, random forest, and XGBoost to classify articles into four categories
-	- Constructed the database with Google Cloud Firestore for app to get predicted results and desired articles
+
+  - Used Word2Vec, random forest, and XGBoost to classify articles into four categories
+  - Constructed the database with Google Cloud Firestore for app to get predicted results and desired articles
+
 - [Currency Dashboard](https://github.com/corytu/currency-dashboard) (Jul 2017)
-	- Parsed from [Bank of Taiwan](http://www.bot.com.tw/Pages/default.aspx) and presented
-		1. the latest currency information, and
-		2. the latest interest information with interactive plots and tables
-	- Compared the exchanges prices between that of today and that of last week
-	- Calculated the return of investment if additional information provided
+
+  - Parsed from [Bank of Taiwan](http://www.bot.com.tw/Pages/default.aspx) and presented
+
+    1. the latest currency information, and
+
+    2. the latest interest information with interactive plots and tables
+
+  - Compared the exchanges prices between that of today and that of last week
+  - Calculated the return of investment if additional information provided
+
 - [Old Population Proportions in Districts in Taiwan](https://github.com/corytu/old-population-proportions) (Mar 2017)
-	- Illustrated the percentages of old population in every district in Taiwan
-	- Widely referred in local health authorities, helping the promotion of primary health and creating an elder-friendly society
-	- Last updated in February, 2018
+
+  - Illustrated the percentages of old population in every district in Taiwan
+  - Widely referred in local health authorities, helping the promotion of primary health and creating an elder-friendly society
+  - Last updated in February, 2018
+
 - [Relationships between Visitor Numbers and Taiwan Economics](https://corytu.github.io/r-language-presentations/docs/Relationships_between_Visitor_Numbers_and_Taiwan_Economics.html) (Mar 2017)
-	- Demonstrated the animated relationships between visitor numbers and multiple Taiwan economics indexes including visitor expenditure and GDP from 2001 to 2016. (Flash Player required)
+
+  - Demonstrated the animated relationships between visitor numbers and multiple Taiwan economics indexes including visitor expenditure and GDP from 2001 to 2016. (Flash Player required)
+
 - [Taiwan National Parks](https://corytu.github.io/r-language-presentations/docs/Taiwan_National_Parks.html) (Feb 2017)
-	- Showed all nine national parks in Taiwan
-	- Provided hyperlinks to each national park once users click the markers
+
+  - Showed all nine national parks in Taiwan
+  - Provided hyperlinks to each national park once users click the markers
 
 # Voluntary Services
 
