@@ -15,15 +15,17 @@ An experienced researcher/engineer with proven capability to propose and to real
 
 - **Data Engineer & Project Manager** (Mar 2020 - Feb 2021)
 	- Proposed and realized the idea of collecting clinical lab data as a strategic asset of Health2Sync (H2 Inc.), enabling the company to expand the scope of service from diabetes to all metabolic chronic diseases
-	- Coordinated Data, Backend, Business Development, and Product teams' resources to onboard more than 25 clinical labs and 120 clinics in Taiwan and collect lab test results from them
+	- Coordinated Data, Backend, Business Development, and Product teams' resources to a) onboard more than 25 clinical labs and 120 clinics in Taiwan and collect lab test results from them, and b) refine the data flow with MongoDB and Apache Kafka for both app products and data analyses, making it scalable worldwide
 	- Published paper manuscript on JMIR Preprints regarding RWE for the relationship between HbA1c decrease and app retention, showing the efficacy of digital intervention, which is utilized to deepen the relationship with stakeholders and to create opportunities of health economics advantages for digital therapeutics
 - **Data Engineer** (Jan 2018 - Mar 2020)
-  - Found the activity difference between user groups and provided actionable insights to increase 3-month retention ratio by 20%
-  - Performed analyses and provided business insights for product development and external stakeholders including MSD Taiwan, Sanofi Taiwan, and Johnson & Johnson
-  - Worked with Business Development team to design patient support/reward programs, and enhanced them with data analyses
-  - Proactively planned features on [HealthPass (健康護照)](https://www.healthpass.cc), including Health Guide, to enable users to understand their health data
-  - Introduced OKR system to the company and helped to set and review objectives of data team
-  - Designed analyses protocol for real-world evidence (RWE) of product efficacy from collected data and wrote paper manuscript for publication
+	- Introduced OKR system to the company and helped to set and review objectives of data team
+	- Designed analyses protocol for real-world evidence (RWE) of product efficacy from collected data and wrote paper manuscript for publication
+	- Found the activity difference between user groups and provided actionable insights to increase 3-month retention ratio by 20%
+	- Performed analyses and provided business insights for product development and external stakeholders including MSD Taiwan, Sanofi Taiwan, and Johnson & Johnson
+	- Constructed ETL data pipeline to sync data from clinical laboratories to app products and analysis tools
+	- Proactively planned features on [HealthPass (健康護照)](https://www.healthpass.cc), including Health Guide, to enable users to understand their health data
+	- Implemented OCR techniques from Google Cloud Vision into HealthPass product to extract data on physical exam reports ([替個人健檢報告加值，這家新創用區塊鏈從健康數據淘金｜數位時代](https://www.bnext.com.tw/article/52543/health2sync-ctbc-bank-and-bitmark-launch-world-frst-diabetes-data-trust))
+	- Deployed Dockerized Shiny server on AWS EC2 instance
 
 ## [National Taiwan University,<br>Graduate Institute of Brain and Mind Sciences](http://gibms.mc.ntu.edu.tw)
 
