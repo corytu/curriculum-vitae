@@ -31,10 +31,7 @@ An experienced researcher/engineer with proven capability to propose and to real
 
 - **Research Assistant** (Oct 2015 - Dec 2017)
   - Built and validated an age- and sex-fair Taiwanese facial expression stimuli database
-  - Published paper on Frontiers in Psychology, reporting age- and sex-related behavioral differences on patterns of East Asians' face perception with the following analyses:
-    - Multidimensional scaling
-    - Hierarchical clustering
-    - MCMC (Markov chain Monte Carlo) mixed models
+  - Published paper on Frontiers in Psychology, reporting age- and sex-related behavioral differences on patterns of East Asians' face perception
   - Maintained Linux (CentOS) server
   - Provided assistance including R tutorial and academic advices for junior students
   - Established experiment space and SOP for venipuncture and human DNA extraction
