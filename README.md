@@ -21,7 +21,7 @@ An experienced researcher/engineer with proven capability to propose and to real
   - Introduced OKR system to the company and helped to set and review objectives of data team
   - Designed analyses protocol for real-world evidence (RWE) of product efficacy from collected data and wrote paper manuscript for publication
   - Found the activity difference between user groups and provided actionable insights to increase 3-month retention ratio by 20%
-  - Co-designed "lipid alerts" with collegues to shift prescription in 60 clinics and lowered 1300 patients' LDL-C by 10.3% in 8 months
+  - Co-designed "lipid alerts" with colleagues to shift prescription in 60 clinics and lowered 1300 patients' LDL-C by 10.3% in 8 months
   - Performed analyses and provided business insights for product development and external stakeholders including MSD Taiwan, Sanofi Taiwan, and Johnson & Johnson
   - Proactively planned features on [HealthPass (健康護照)](https://www.healthpass.cc), including Health Guide, to enable users to understand their health data
   - Implemented OCR techniques from Google Cloud Vision into HealthPass product to extract data on physical exam reports ([替個人健檢報告加值，這家新創用區塊鏈從健康數據淘金｜數位時代](https://www.bnext.com.tw/article/52543/health2sync-ctbc-bank-and-bitmark-launch-world-frst-diabetes-data-trust))
