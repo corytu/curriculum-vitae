@@ -16,7 +16,7 @@ An experienced researcher/engineer with proven capability to propose and to real
 - **Data Engineer & Project Manager** (Mar 2020 - Feb 2021)
   - Proposed and realized the idea of collecting clinical lab data as a strategic asset of Health2Sync (H2 Inc.), enabling the company to expand the scope of service from diabetes to all metabolic chronic diseases
   - Coordinated Data, Backend, Business Development, and Product teams' resources to a) onboard more than 25 clinical labs and 120 clinics in Taiwan and collect lab test results from them, and b) refine the ETL data pipeline to make it scalable worldwide
-  - Submitted paper manuscript to JMIR regarding RWE for the relationship between HbA1c decrease and app retention, showing the efficacy of digital intervention, which is utilized to deepen the relationship with stakeholders and to create opportunities of health economics advantages for digital therapeutics
+  - Submitted paper manuscript to JMIR (accepted in May 2021) regarding RWE for the relationship between HbA1c decrease and app retention, showing the efficacy of digital intervention, which is utilized to deepen the relationship with stakeholders and to create opportunities of health economics advantages for digital therapeutics
 - **Data Engineer** (Jan 2018 - Mar 2020)
   - Introduced OKR system to the company and helped to set and review objectives of data team
   - Designed analyses protocol for real-world evidence (RWE) of product efficacy from collected data and wrote paper manuscript for publication
@@ -69,7 +69,7 @@ An experienced researcher/engineer with proven capability to propose and to real
 
 ## Journal Papers, Book Chapter, and Thesis
 
-1. **Tu, Y.-Z.**, Chang, Y.-T., Chiou, H.-Y., Lai, K. (2020). The effects of continuous usage of diabetes management app on glycemic control in real-world clinical practice: Retrospective analysis. *JMIR Preprints*, 05/08/2020:23227. doi: [10.2196/preprints.23227](https://doi.org/10.2196/preprints.23227)
+1. **Tu, Y.-Z.**, Chang, Y.-T., Chiou, H.-Y., Lai, K. (in press). The effects of continuous usage of diabetes management app on glycemic control in real-world clinical practice: Retrospective analysis. *Journal of Medical Internet Research*, 24/05/2021:23227. doi: [10.2196/23227](https://doi.org/10.2196/23227)
 2. Goh, J. O. S., Li, C.-Y., **Tu, Y.-Z.**, & Dallaire-Théroux, C. (2020). *Visual cognition and culture. In O. Pedraza (Ed.), Clinical cultural neuroscience: Foundations and neuropsychological assessment*: Oxford University Press.
 3. Chen, C.-C., Su, Y.-S., **Tu, Y.-Z.**, Goh, J. O. S. (2019). Default-mode network activation underlies accurate contextual processing of exclusive disjunctions in older but not younger adults. *NeuroImage*, 201. doi: [10.1016/j.neuroimage.2019.116012](https://doi.org/10.1016/j.neuroimage.2019.116012)
 4. **Tu, Y.-Z.**, Lin, D.-W., Suzuki, A., & Goh, J. O. S. (2018). East Asian young and older adult perceptions of emotional faces from an age- and sex-fair East Asian facial expression database. *Frontiers in Psychology*, 9, 2358. doi: [10.3389/fpsyg.2018.02358](https://doi.org/10.3389/fpsyg.2018.02358)
