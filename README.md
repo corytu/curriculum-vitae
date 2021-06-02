@@ -14,7 +14,7 @@ An experienced researcher/engineer with proven capability to propose and to real
 ## [Health2Sync](https://www.health2sync.com)
 
 - **Data Engineer & Project Manager** (Mar 2020 - Feb 2021)
-  - Proposed and realized the idea of collecting clinical lab data as a strategic asset of Health2Sync (H2 Inc.), enabling the company to expand the scope of service from diabetes to all metabolic chronic diseases
+  - Proposed and realized the idea of collecting clinical lab data as a strategic asset of Health2Sync (H2 Inc.), enabling the company to expand the scope of service from diabetes to all chronic metabolic disorders
   - Coordinated Data, Backend, Business Development, and Product teams' resources to a) onboard more than 25 clinical labs and 120 clinics in Taiwan and collect lab test results from them, and b) refine the ETL data pipeline to make it scalable worldwide
   - Submitted paper manuscript to JMIR (accepted in May 2021) regarding RWE for the relationship between HbA1c decrease and app retention, showing the efficacy of digital intervention, which is utilized to deepen the relationship with stakeholders and to create opportunities of health economics advantages for digital therapeutics
 - **Data Engineer** (Jan 2018 - Mar 2020)
