@@ -53,12 +53,14 @@ An experienced researcher/engineer with proven capability to propose and to real
 
 # Featured Certificates
 
-- TOEIC (*Educational Testing Service*, Jul 2016)
+- EF SET English Certificate 80/100 (C2 Proficient) (*EF Standard English Test (EF SET)*, Jun 2021)
+  - Listening: 83
+  - Reading: 77
+- TOEIC® Listening and Reading Test (945/990) (*ETS Global B.V.*, Jul 2016)
   - Listening: 450
   - Reading: 495
 - R Language Today (*Silicon Stone Education Inc.*, Jun 2016)
 - Medical Technologist (*Ministry of Health and Welfare, Taiwan*, Sep 2013)
-- Numerous data- or management-related course certificates (see my LinkedIn profile)
 
 # Education
 
