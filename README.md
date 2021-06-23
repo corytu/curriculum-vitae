@@ -81,6 +81,10 @@ An experienced researcher/engineer with proven capability to propose and to real
 
 1. Yuan, S.-Y., **Tu, Y.-Z.**, Wang, P.-Y., Goh, J. O. S. (2014). Dietary macronutrient composition is differentially associated with gray matter volume in young and older adults. Presented at the Society for Neuroscience Annual Meeting, Washington, DC, USA. [[pdf](https://drive.google.com/file/d/0BzjcVTDEKxiva0JXTDJlcEplU0U/view)] [[Abstract](http://www.abstractsonline.com/Plan/ViewAbstract.aspx?sKey=ff62ca82-9063-4f1e-a580-31bf3688349a&cKey=f094b7b4-a3e8-4d0c-9505-192458dcace4&mKey=54c85d94-6d69-4b09-afaa-502c0e680ca7)]
 
+## Autobiography
+
+1. **涂玉臻**（2021）。勇敢與眾不同，努力開創道路。*楓城新聞*，（336）。[[pdf](https://epaper.mc.ntu.edu.tw/view.php?v=336&pt=a&rn=336-7.pdf&rt=pdf)]
+
 # Side Projects
 
 - [Recommend Itinerary](https://github.com/corytu/recommend-itinerary) (Sep 2019)
