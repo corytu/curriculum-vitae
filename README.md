@@ -71,7 +71,7 @@ An experienced researcher/engineer with proven capability to propose and to real
 
 ## Journal Papers, Book Chapter, and Thesis
 
-1. **Tu, Y.-Z.**, Chang, Y.-T., Chiou, H.-Y., Lai, K. (in press). The effects of continuous usage of diabetes management app on glycemic control in real-world clinical practice: Retrospective analysis. *Journal of Medical Internet Research*, 24/05/2021:23227. doi: [10.2196/23227](https://doi.org/10.2196/23227)
+1. **Tu, Y.-Z.**, Chang, Y.-T., Chiou, H.-Y., Lai, K. (2021). The effects of continuous usage of diabetes management app on glycemic control in real-world clinical practice: Retrospective analysis. *Journal of Medical Internet Research*, 23(7):e23227. doi: [10.2196/23227](https://doi.org/10.2196/23227)
 2. Goh, J. O. S., Li, C.-Y., **Tu, Y.-Z.**, & Dallaire-Théroux, C. (2020). *Visual cognition and culture. In O. Pedraza (Ed.), Clinical cultural neuroscience: Foundations and neuropsychological assessment*: Oxford University Press.
 3. Chen, C.-C., Su, Y.-S., **Tu, Y.-Z.**, Goh, J. O. S. (2019). Default-mode network activation underlies accurate contextual processing of exclusive disjunctions in older but not younger adults. *NeuroImage*, 201. doi: [10.1016/j.neuroimage.2019.116012](https://doi.org/10.1016/j.neuroimage.2019.116012)
 4. **Tu, Y.-Z.**, Lin, D.-W., Suzuki, A., & Goh, J. O. S. (2018). East Asian young and older adult perceptions of emotional faces from an age- and sex-fair East Asian facial expression database. *Frontiers in Psychology*, 9, 2358. doi: [10.3389/fpsyg.2018.02358](https://doi.org/10.3389/fpsyg.2018.02358)
